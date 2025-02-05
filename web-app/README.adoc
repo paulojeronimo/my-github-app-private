@@ -1,0 +1,12 @@
+= README
+
+----
+$ export $(<../.env)
+
+$ python -mvenv .venv
+$ source .venv/bin/activate
+
+$ pip install fastapi uvicorn pydantic requests
+
+$ uvicorn main:app --reload
+----
