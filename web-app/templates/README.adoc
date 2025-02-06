@@ -1,0 +1,7 @@
+= ${repository_owner}/${repository_name}
+
+Hello *${username}*!
+
+This is your initial repository.
+
+*Your source code* needs to be committed to here.

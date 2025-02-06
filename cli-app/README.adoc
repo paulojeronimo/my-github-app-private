@@ -1,8 +1,6 @@
 = README
 
 ----
-$ export $(<../.env)
-
 $ python -mvenv .venv
 $ source .venv/bin/activate
 
